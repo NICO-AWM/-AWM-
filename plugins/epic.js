@@ -5,7 +5,7 @@ Mizuki - MrJoka
 */
 
 const Asena = require('../events');
-const { MessageType, MessageOptions, Mimetype } = require('cyber-queen-web-api');
+const { MessageType, MessageOptions, Mimetype } = require('sltechnicaltips-web-api');
 const fs = require('fs');
 const axios = require('axios');
 const Config = require('../config');

@@ -4,7 +4,7 @@ Instagram: https://instagram.com/kyrie.baran
 */
 
 const Asena = require('../events');
-const {MessageType,Mimetype} = require('cyber-queen-web-api');
+const {MessageType,Mimetype} = require('sltechnicaltips-web-api');
 const fs = require('fs');
 const ffmpeg = require('fluent-ffmpeg');
 const {execFile} = require('child_process');

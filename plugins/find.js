@@ -1,5 +1,5 @@
 const Asena = require('../events');
-const { MessageType, Mimetype } = require('cyber-queen-web-api');
+const { MessageType, Mimetype } = require('sltechnicaltips-web-api');
 const fs = require('fs');
 const Config = require('../config');
 let workt = Config.WORKTYPE == 'public' ? false : true

@@ -13,7 +13,7 @@ d e t a i l
 */
 
 const Asena = require('../events');
-const {MessageType, MessageOptions, Mimetype} = require('cyber-queen-web-api');
+const {MessageType, MessageOptions, Mimetype} = require('sltechnicaltips-web-api');
 const axios = require('axios');
 const { errorMessage, infoMessage } = require('../helpers');
 const Config = require('../config');

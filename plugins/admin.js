@@ -4,7 +4,7 @@ Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 */
 
-const {MessageType, GroupSettingChange} = require('cyber-queen-web-api');
+const {MessageType, GroupSettingChange} = require('sltechnicaltips-web-api');
 const Cyber = require('../events');
 const Config = require('../config');
 

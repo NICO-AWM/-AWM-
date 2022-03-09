@@ -5,7 +5,7 @@ const {
     MessageType,
     GroupSettingChange,
     Mimetype,
-    MessageOptions} = require('cyber-queen-web-api');
+    MessageOptions} = require('sltechnicaltips-web-api');
 const fs = require('fs');
 const Config = require('../config')
 const axios = require('axios')

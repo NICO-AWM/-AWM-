@@ -7,7 +7,7 @@ WhatsAsena - Yusuf Usta
 */
 
 const Asena = require('../events');
-const {MessageType} = require('cyber-queen-web-api');
+const {MessageType} = require('sltechnicaltips-web-api');
 const FilterDb = require('./sql/filters');
 
 const Language = require('../language');
