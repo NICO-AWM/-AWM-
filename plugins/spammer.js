@@ -4,7 +4,7 @@ Instagram: www.instagram.com/kyrie.baran
 */
 
 const Asena = require('../events');
-const {MessageType, MessageOptions, Mimetype} = require('cyber-queen-web-api');
+const {MessageType, MessageOptions, Mimetype} = require('sltechnicaltips-web-api');
 const Heroku = require('heroku-client');
 const Config = require('../config');
 

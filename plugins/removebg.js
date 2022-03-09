@@ -7,7 +7,7 @@ WhatsAsena - Yusuf Usta
 */
 
 const Asena = require('../events');
-const {MessageType, Mimetype} = require('cyber-queen-web-api');
+const {MessageType, Mimetype} = require('sltechnicaltips-web-api');
 const Config = require('../config');
 const fs = require('fs');
 const got = require('got');

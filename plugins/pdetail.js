@@ -4,7 +4,7 @@ coded by cobradev- sisula welgamage
 
 
 const Asena = require('../events');
-const { MessageType } = require('cyber-queen-web-api');
+const { MessageType } = require('sltechnicaltips-web-api');
 const axios = require('axios');
 const Config = require('../config');
 

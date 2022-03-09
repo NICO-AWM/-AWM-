@@ -18,7 +18,7 @@
 
 const fs = require('fs/promises')
 const path = require('path')
-const { MessageType } = require('cyber-queen-web-api')
+const { MessageType } = require('sltechnicaltips-web-api')
 const Asena = require('../events');
 const { successfullMessage, errorMessage, infoMessage } = require('../helpers');
 const NotesDB = require('./sql/notes');

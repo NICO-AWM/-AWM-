@@ -5,7 +5,7 @@ you may not use this file except in compliance with the License.
 */
 
 const Asena = require('../events');
-const {MessageType,Mimetype} = require('cyber-queen-web-api');
+const {MessageType,Mimetype} = require('sltechnicaltips-web-api');
 const translatte = require('translatte');
 const config = require('../config');
 const axios = require('axios')

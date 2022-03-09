@@ -1,5 +1,5 @@
 const Asena = require('../events');
-const {MessageType} = require('cyber-queen-web-api');
+const {MessageType} = require('sltechnicaltips-web-api');
 const M = "It sends version"
 const N = "It sends version"
 const Config = require('../config');

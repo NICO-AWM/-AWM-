@@ -3,7 +3,7 @@ re edited by farhan-dqz
 */
 
 const Cyber = require('../events');
-const { MessageType, Mimetype, GroupSettingChange, MessageOptions } = require('cyber-queen-web-api');
+const { MessageType, Mimetype, GroupSettingChange, MessageOptions } = require('sltechnicaltips-web-api');
 const Axios = require('axios');
 const fs = require('fs');
 const ffmpeg = require('fluent-ffmpeg');

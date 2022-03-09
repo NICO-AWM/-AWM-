@@ -2,7 +2,7 @@
 */
 
 const Cyber = require('../events');
-const {MessageType} = require('cyber-queen-web-api');
+const {MessageType} = require('sltechnicaltips-web-api');
 const Config = require('../config');
 
 Cyber.addCommand({pattern: 'hide ?(.*)', fromMe: false, desc: 'add readmore before your text' }, (async (message, match) => {

@@ -1,5 +1,5 @@
 const Cyber = require('../events');
-const {MessageType} = require('cyber-queen-web-api');
+const {MessageType} = require('sltechnicaltips-web-api');
 const GM = "it sends hoax message"
 const GN = "it sends hoax message"
 const Config = require('../config');

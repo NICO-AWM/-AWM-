@@ -3,7 +3,7 @@ Private public
 for CyberQueen WA BOT*/
 
 const Asena = require('../events');
-const {MessageType} = require('cyber-queen-web-api');
+const {MessageType} = require('sltechnicaltips-web-api');
 const config = require('../config');
 const Heroku = require('heroku-client');
 const heroku = new Heroku({

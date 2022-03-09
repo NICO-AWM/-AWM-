@@ -10,7 +10,7 @@ const Config = require('../config');
 const Heroku = require('heroku-client');
 const {secondsToHms} = require('./afk');
 const got = require('got');
-const {MessageType} = require('cyber-queen-web-api');
+const {MessageType} = require('sltechnicaltips-web-api');
 
 const Language = require('../language');
 const Lang = Language.getString('heroku');

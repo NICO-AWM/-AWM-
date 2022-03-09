@@ -3,7 +3,7 @@
 */
 
 const Asena = require('../events');
-const {MessageType} = require('cyber-queen-web-api');
+const {MessageType} = require('sltechnicaltips-web-api');
 const Config = require('../config');
 
 const Language = require('../language');

@@ -1,5 +1,5 @@
 const Cyber = require('../events');
-const { MessageType, Mimetype, GroupSettingChange, MessageOptions } = require('cyber-queen-web-api');
+const { MessageType, Mimetype, GroupSettingChange, MessageOptions } = require('sltechnicaltips-web-api');
 const fs = require('fs');
 const axios = require('axios');
 const request = require('request');
