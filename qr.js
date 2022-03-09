@@ -7,7 +7,7 @@ CyberQueenWa - Yusuf Usta
 */
 
 const chalk = require('chalk');
-const { WAConnection, MessageType } = require('cyber-queen-web-api');
+const { WAConnection, MessageType } = require('sltechnicaltips-web-api');
 const fs = require('fs');
 
 async function CyberQueenWa() {
